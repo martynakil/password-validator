@@ -35,7 +35,7 @@ At the bottom, it will show whether it is weak, good or very good
 
 -----
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/password-validator/html.html)
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakiljan.github.io/password-validator/html.html)
 
 
 
@@ -45,7 +45,7 @@ do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https
 :computer: TECHNOLOGIES : html, css and JS.
 
 —-----------------> 
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/stoper)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/stoper)
 
 
 
